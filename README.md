@@ -1,5 +1,5 @@
 # k8s-clusters
-Deploying applications to a Kubernetes clusters with ArgoCD and Helm.
+Deploying applications to a Kubernetes clusters with Helm and ArgoCD.
 
 GitOps is a way of implementing Continuous Deployment for cloud-native applications.
 It focuses on a developer-centric experience when operating infrastructure using tools developers are already familiar with, including Git and Continuous Deployment tools.
